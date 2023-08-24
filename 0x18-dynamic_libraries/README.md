@@ -1,2 +1,0 @@
-Scripts on dynamic libraries
-
